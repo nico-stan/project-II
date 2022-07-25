@@ -33,7 +33,7 @@ Subsequently, Nations reach an inflexion point when fertility rates average <2 a
 
 Therefore, we can look at immigration policies, especially for younger people as one of the solutions to the demographic dilemma.
 
-In this sense, we aim to better understand the world's data from the 21st century to see how may Fertility rates and Net Migration rates be related.
+In this sense, we aim to better understand the world's data from the 21st century to see how Fertility rates and Net Migration rates may be related.
 
 ### Exploratory Data Analysis
 204 countries are selected for this report, with columns that include a variety of quantitative data.
@@ -55,7 +55,7 @@ We can see strong correlations for:
 <p align="left">
 <img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure3.png" />
 </p>
-Here the most remarcable correlations is:
+Here the most remarkable correlations is:
 - Net Migration and Population Growth (0.91)
 
 **Life Expectancy and HDI**
@@ -126,7 +126,7 @@ The last strong correlation is between Fertility and Life Expectancy.
 <img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure12.png" />
 </p>
 
-We can better understand the Net Migration Rate individually and then see how it related to the Population Growth in Developped Countries
+We can better understand the Net Migration Rate individually and then see how it related to the Population Growth in Developed Countries
 
 **Net Migration Rate Distribution by Continent**
 <p align="left">
@@ -146,7 +146,7 @@ We can better understand the Net Migration Rate individually and then see how it
 
 ## Conclusion
 ​
-The persistent historical trends mentioned have inescapable consequences in terms of population. There is no easy fix for the demographic dillemma. However, immigration when inspected closely seems to be playing a significant role in the long term sustainability of a Country's Wellfare State.
+The persistent historical trends mentioned have inescapable consequences in terms of population. There is no easy fix for the demographic dilemma. However, immigration when inspected closely seems to be playing a significant role in the long term sustainability of a Country's Welfare State.
 
 The bottom line is that positive net immigration can ensure population stability or growth in the aging advanced economies of the developed Nations and this will happen only if we promote forward-looking immigration policies that allow larger numbers of immigrants and consider their long-run impact, rather than focusing only on the short-term calculations of their (mostly political) costs.
  
