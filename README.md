@@ -140,7 +140,7 @@ We can better understand the Net Migration Rate individually and then see how it
 
 **Net Migration Rate vs Population Growth for Developed Countries**
 <p align="left">
-<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/FigureXX.png" />
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/FigureXXX.png" />
 </p>
 
 
@@ -178,44 +178,44 @@ In the root directory there are 2 Jupyter Notebook files that include all the co
 ​
 ## Annex
 ​
-**Sex-ratio (ratio)**
+**- Sex-ratio (ratio)**
 Male/Female ratio over 100 people in a given year and country.
  
-**Fertility (rate)**
+**- Fertility (rate)**
 The total fertility rate of a population is the average number of children that would be born to a woman over her lifetime if: 
 (1) She were to experience the exact current age-specific fertility rates through her lifetime.
 (2) She were to live from birth until the end of her reproductive life.
 Notice that this rate includes both parents in the same woman.
  
-**GDP per capita ($)**
+**- GDP per capita ($)**
 Measures the annual economic output of a nation per person.
  
-**Life expectancy (years)**
+**- Life expectancy (years)**
 Average time that a person is expected to live in a given year and country.
  
-**Meat consumption (kg)**
+**- Meat consumption (kg)**
 Average quantity of meat (kg) consumed per person in a given year and country.
  
-**Median age (years)**
+**- Median age (years)**
 Average age of a person on a given year and country.
  
-**Net Migration Rate (rate)**
+**- Net Migration Rate (rate)**
 The net migration rate is the difference between the number of immigrants (people coming into an area) and the number of emigrants (people leaving an area) throughout the year in a given country.
-**N = 1000 x (I - E) / P**
+**- N = 1000 x (I - E) / P**
 N: Net migration rate per 1000 people.
 I: Number of people immigrating into the country.
 E: Number of people emigrating out of the country.
 P: Estimated mid-year population.
 An excess of persons entering the country is referred to as net immigration (e.g., 3.56 migrants/1,000 population); an excess of persons leaving the country as net emigration (e.g., -9.26 migrants/1,000 population). The net migration rate indicates the contribution of migration to the overall level of population change. The net migration rate does not distinguish between economic migrants, refugees, and other types of migrants; nor does it distinguish between lawful migrants and unlawful migrants.
  
-**Population growth (%)**
+**- Population growth (%)**
 Rate of change (increase/decrease) in the number of people in a country's population in a given year.
  
-**Suicide rate (rate)**
+**- Suicide rate (rate)**
 Number of deaths per 100,000 people in a given year and country.
  
-**Urbanization rate (rate)**
+**- Urbanization rate (rate)**
 Average rate of change of the size of the urban population in a given year and country.
  
-**Human Development Index (Index)**
+**- Human Development Index (Index)**
 The HDI is a summary composite measure of a country's average achievements in life expectancy, education (mean years of schooling completed and expected years of schooling upon entering the education system), and per capita income indicators.
