@@ -24,7 +24,6 @@ Hence, I believe that not only would it be beneficial for a developed nation to 
 
 ​
 ## Analysis
-​
 ### Why would we care?
 In a nutshell, we are like the violinists at Titanic, continuing to live our normal lives while our economic and wellness structure crumbles beneath our feet.
 
@@ -167,15 +166,13 @@ This analysis was carried out on data updated in the 21st century. I have select
 ## Project files
 ​
 The main directory has 3 subdirectories:
-· Input: Holds the data used to analyze the hypothesis. It is a folder with multiple files which are then merged into a single dataframe in the Output folder df_clean.
-· Output: Contains the df created from the original data, and a folder named images with the figures that are used multiple times through the project.
-· src: Contains python files with all functions created specifically for this analysis.
-· README: This file works both as a report and a presentation tool for the project
-​
+- Input: Holds the data used to analyze the hypothesis. It is a folder with multiple files which are then merged into a single dataframe in the Output folder df_clean.
+- Output: Contains the df created from the original data, and a folder named images with the figures that are used multiple times through the project.
+- src: Contains python files with all functions created specifically for this analysis.
+- README: This file works both as a report and a presentation tool for the project
 In the root directory there are 2 Jupyter Notebook files that include all the code used in the project:
-· "Exploratory data analysis" (EDA): This file explores the data (how much data there is, how is it organized and the quality of it). This file also scrapes information from wikipedia on Net Migration by country and merges all input files into a single dataframe.
-· Plotting: This file is used to create plots that help visualize the data in order to check if the hypothesis is true.
-​
+- "Exploratory data analysis" (EDA): This file explores the data (how much data there is, how is it organized and the quality of it). This file also scrapes information from wikipedia on Net Migration by country and merges all input files into a single dataframe.
+- Plotting: This file is used to create plots that help visualize the data in order to check if the hypothesis is true.
 
 
 ​
