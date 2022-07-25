@@ -35,10 +35,15 @@ Therefore, we can look at immigration policies, especially for younger people as
 
 In this sense, we aim to better understand the world's data from the 21st century to see how may Fertility rates and Net Migration rates be related.
 
+For correlations we will be considering r>=0.85
+
 <p align="center">
 <img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure2.png" />
 </p>
 
+<p align="center">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure3.png" />
+</p>
 
  
  
