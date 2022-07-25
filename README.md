@@ -10,7 +10,7 @@
 It is January 2023 and we continue to be in the middle of an all-out war between Russia and Ukraine. Northern African and Middle East nations are suffering unparalleled starvation as their food supply is stockpiled throughout Ukraine and rotting. The Black Sea continues to be heavily guarded by Turkey and the stand-off between Ukraine's Army and its underwater mines, and Russia's unrivaled Navy at bay is still ongoing.
  
 I am hired as an external consultant Data Analyst for an International Affairs Panel on the topic immigration policies for the United Nations. They show a special interest on how developed nations can solve their long term issues included but not limited to: low fertility rates, population pyramid inversion and crippling pension debt. Therefore, they want to know how might new immigration policies impact their countries existing infrastructure, as they prepare to receive refugees by the millions.
- 
+
 ​
 ## Hypothesis
 ​
@@ -20,7 +20,8 @@ The demographic dilemma is the situation where a country's Human Development Ind
 In addition, fertility rates which are lower than 2 means that the difference in births and deaths would produce population declines and substantial increases in average ages, both of which could disrupt labor markets, threaten the fiscal sustainability of pension systems, as well as slow down economic growth, unless total net immigration offsets such declines.
  
 Hence, I believe that not only would it be beneficial for a developed nation to adopt the right immigration policies for its prosperity and economic growth, but also it is imperative for a developed nation's survival, as these population trends transcend culture and geography, they are intrinsic to Humankind.
- 
+
+
 ​
 ## Analysis
 ​
@@ -35,31 +36,133 @@ Therefore, we can look at immigration policies, especially for younger people as
 
 In this sense, we aim to better understand the world's data from the 21st century to see how may Fertility rates and Net Migration rates be related.
 
-For correlations we will be considering r>=0.85
+### Exploratory Data Analysis
+204 countries are selected for this report, with columns that include a variety of quantitative data.
 
-<p align="center">
+For correlations we will be considering r>=0.85.
+
+**Correlations (all countries)**
+<p align="left">
 <img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure2.png" />
 </p>
 
-<p align="center">
+We can see strong correlations for:
+- Life Expectancy and HDI (0.9)
+- Fertility and Median Age (-0.87)
+- Fertility and HDI (-0.86)
+- Fertility and Life Expectancy (-0.85)
+
+**Correlations (developed countries)**
+<p align="left">
 <img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure3.png" />
 </p>
+Here the most remarcable correlations is:
+- Net Migration and Population Growth (0.91)
 
+**Life Expectancy and HDI**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure13.png" />
+</p>
  
- 
+**Life expectancy by Continent**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure4.png" />
+</p>
+
+**Life expectancy by Class of Country**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure5.png" />
+</p>
+
+To better understand fertility, we will consider it individually and then see how it is related to other variables.
+
+**Fertility rate by Continent**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure6.png" />
+</p>
+
+**Fertility Rate by Continent (Boxplot)**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure15.png" />
+</p>
+
+**Fertility rate by Class of Country**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure7.png" />
+</p>
+
+**Fertility sorted by Continent and Country Class**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure14.png" />
+</p>
+
+As shown, Fertility rate has a high correlation with Median Age.
+
+**Fertility rate vs Median Age**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure11.png" />
+</p>
+
+We can now see how Fertility rate is correlated to the Human Development Index.
+
+**Fertility rate vs Human Development Index**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure10.png" />
+</p>
+
+**Fertility rate vs Human Development Index by Continent**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure8.png" />
+</p>
+
+**Fertility rate vs Human Development Index by Class of Country**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure9.png" />
+</p>
+
+The last strong correlation is between Fertility and Life Expectancy.
+
+**Fertility Rate vs Life Expectancy**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure12.png" />
+</p>
+
+We can better understand the Net Migration Rate individually and then see how it related to the Population Growth in Developped Countries
+
+**Net Migration Rate Distribution by Continent**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure16.png" />
+</p>
+
+**Net Migration Rate Distribution by Class**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure17.png" />
+</p>
+
+**Net Migration Rate vs Population Growth for Developed Countries**
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/FigureXX.png" />
+</p>
+
+
 ## Conclusion
 ​
-The persistent historical trends mentioned have inescapable consequences in terms of population. Between 1950 and 2010, the populations of the rich regions of the North increased through net immigration, and since 1990 immigration has been the North’s primary source of population growth. In Europe, immigration accounted for 80 percent of the population growth between 2000 and 2018, while in North America, it constituted 32 percent in that same period.
+The persistent historical trends mentioned have inescapable consequences in terms of population. There is no easy fix for the demographic dillemma. However, immigration when inspected closely seems to be playing a significant role in the long term sustainability of a Country's Wellfare State.
+
+The bottom line is that positive net immigration can ensure population stability or growth in the aging advanced economies of the developed Nations and this will happen only if we promote forward-looking immigration policies that allow larger numbers of immigrants and consider their long-run impact, rather than focusing only on the short-term calculations of their (mostly political) costs.
  
-The bottom line is that only net immigration can ensure population stability or growth in the aging advanced economies of the North—and this will happen only if we promote forward-looking immigration policies that allow larger numbers of immigrants and consider their long-run impact, rather than focusing only on the short-term calculations of their (mostly political) costs.
- 
-The data concludes that
- 
+
 ​
 ## Considerations and limitations
 ​
 This analysis was carried out on data updated in the 21st century. I have selected 204 countries and discarded 28 countries by lack of data (8 values minimum in a row) -12% of the total, which does not affect the Hypothesis nor the Conclusion. By the end of the year 2022, Net Migration rates will be considerably different in Europe as more Ukrainians continue to leave their country. The data is static as has been taken from 21st century data sources in a given point of time.
- 
+
+### How reliable is this data?
+<p align="left">
+<img src="https://github.com/nico-stan/project-II/blob/main/Output/images/Figure1.png" />
+</p>
+
+
 ​
 ## Project files
 ​
@@ -73,7 +176,8 @@ In the root directory there are 2 Jupyter Notebook files that include all the co
 · "Exploratory data analysis" (EDA): This file explores the data (how much data there is, how is it organized and the quality of it). This file also scrapes information from wikipedia on Net Migration by country and merges all input files into a single dataframe.
 · Plotting: This file is used to create plots that help visualize the data in order to check if the hypothesis is true.
 ​
- 
+
+
 ​
 ## Annex
 ​
