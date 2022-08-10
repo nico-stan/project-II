@@ -1,7 +1,7 @@
 # Project II - Web scraping and merging Dataframes
 
 <p align="center">
-<img src="https://www.memecreator.org/static/images/memes/5425681.jpg" width="375" height="231" />
+<img src="https://static.vecteezy.com/system/resources/previews/003/640/803/large_2x/hand-holding-tree-soil-tree-growth-seeding-free-photo.jpg"/>
 </p>
 
 ​
@@ -25,7 +25,7 @@ Hence, I believe that not only would it be beneficial for a developed nation to 
 ​
 ## Analysis
 ### Why would we care?
-In a nutshell, we are like the violinists at Titanic, continuing to live our normal lives while our economic and wellness structure crumbles beneath our feet.
+In a nutshell, we continue to live our normal lives while our economic and wellness structure crumbles beneath our feet.
 
 Despite the world continuing to grow in population, it does so in an uneven manner where every Nation, regardless of circumstances, once it reaches a certain level of development, its fertility rates becomes stagnant and average lifespan increases.
 
